@@ -19,7 +19,7 @@ Work experience
 ======
 * Winter 2023: Graduate Student Instructor
   * University of Michigan
-  * Duties included: grading quizzes and exams, proposing marking schemes and providing review lectures.
+  * Duties included: grading quizzes and exams, proposing marking schemes, and providing review lectures.
   * Supervisor: Dr. Anchal Sareen 
 
 Publications
