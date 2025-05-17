@@ -22,14 +22,14 @@ repository               : "ZhichengKai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "kai_fig.JPG"
+  name             : "Zhicheng Kai"
+  pronouns         : 
+  bio              : "PhD Student at Monash University"
+  location         : "Clayton, VIC, Australia"
+  employer         : "Monash University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kaizz@umich.edu" 
 
   # Academic websites
   academia         : # URL
