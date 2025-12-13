@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV/Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mechanical and Aerospace Engineering, Monash University, 2028 (expected)
+* PhD in Mechanical and Aerospace Engineering, Monash University, 2028 (expected)
 * M.S. in Mechanical Engineering, University of Michigan, 2024
 * B.S. in Mechanical Engineering, Rose-Hulman Institute of Technology, 2022
 
@@ -23,8 +23,8 @@ Publications
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* Spring 2024: Assistant Lecturer
+  * Monash University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
