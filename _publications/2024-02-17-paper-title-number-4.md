@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+venue: 'arXiv'
 paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://arxiv.org/abs/2507.02525)'
 citation: 'Kai, Zhicheng, Peter Frame, and Aaron Towne. "Data-Driven Transient Growth Analysis." arXiv preprint arXiv:2507.02525 (2025).'
 ---
